@@ -1,0 +1,7 @@
+.more-content {
+    display: none;
+}
+
+.more-content.show {
+    display: block;
+}
